@@ -1,0 +1,30 @@
+Here are the contents for the file /git-demo-project/git-demo-project/src/main.txt:
+
+# Git Operations Learning Guide
+
+## Basic Commands
+- **git init**: Initialize a new Git repository.
+- **git clone [url]**: Clone an existing repository from a remote source.
+- **git add [file]**: Stage changes to a file for the next commit.
+- **git commit -m "[message]"**: Commit the staged changes with a descriptive message.
+- **git status**: Check the status of your working directory and staging area.
+- **git push [origin] [branch]**: Push your commits to a remote repository.
+- **git pull [origin] [branch]**: Fetch and merge changes from a remote repository.
+
+## Branching
+- **git branch**: List all branches in the repository.
+- **git branch [branch-name]**: Create a new branch.
+- **git checkout [branch-name]**: Switch to a different branch.
+- **git merge [branch-name]**: Merge changes from one branch into the current branch.
+
+## Best Practices
+- Commit often with clear, concise messages.
+- Use branches for new features or bug fixes.
+- Regularly pull changes from the remote repository to stay updated.
+- Use `.gitignore` to exclude files that should not be tracked (e.g., logs, build artifacts).
+
+## Resources
+- Official Git Documentation: https://git-scm.com/doc
+- Pro Git Book: https://git-scm.com/book/en/v2
+
+Happy learning!
